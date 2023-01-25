@@ -1,0 +1,49 @@
+index,mean_test_score,params,rank_test_score
+21,0.9567460317460318,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",1
+43,0.9567460317460318,"{'dimensionalityReduction': NMF(n_components=80), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",1
+19,0.9567460317460318,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",1
+18,0.9555555555555555,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",4
+20,0.9551587301587302,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",5
+42,0.9539682539682539,"{'dimensionalityReduction': NMF(n_components=80), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",6
+47,0.9523809523809523,"{'dimensionalityReduction': NMF(n_components=80), 'models': GaussianNB(), 'vectorize__min_df': 5}",7
+46,0.9523809523809523,"{'dimensionalityReduction': NMF(n_components=80), 'models': GaussianNB(), 'vectorize__min_df': 3}",7
+38,0.951984126984127,"{'dimensionalityReduction': NMF(n_components=30), 'models': GaussianNB(), 'vectorize__min_df': 3}",9
+17,0.9515873015873015,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",10
+39,0.9511904761904763,"{'dimensionalityReduction': NMF(n_components=30), 'models': GaussianNB(), 'vectorize__min_df': 5}",11
+16,0.9503968253968254,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",12
+34,0.9496031746031747,"{'dimensionalityReduction': NMF(n_components=30), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",13
+35,0.9488095238095239,"{'dimensionalityReduction': NMF(n_components=30), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",14
+11,0.9484126984126984,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",15
+41,0.9476190476190476,"{'dimensionalityReduction': NMF(n_components=80), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",16
+40,0.9468253968253968,"{'dimensionalityReduction': NMF(n_components=80), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",17
+37,0.9452380952380952,"{'dimensionalityReduction': NMF(n_components=30), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",18
+32,0.9448412698412699,"{'dimensionalityReduction': NMF(n_components=30), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",19
+33,0.9448412698412699,"{'dimensionalityReduction': NMF(n_components=30), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",19
+10,0.9448412698412699,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",19
+8,0.9436507936507936,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",22
+12,0.9432539682539683,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",23
+9,0.9432539682539682,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",24
+45,0.9428571428571428,"{'dimensionalityReduction': NMF(n_components=80), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",25
+13,0.9428571428571428,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",25
+15,0.9416666666666668,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': GaussianNB(), 'vectorize__min_df': 5}",27
+44,0.9416666666666667,"{'dimensionalityReduction': NMF(n_components=80), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",28
+22,0.9404761904761905,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': GaussianNB(), 'vectorize__min_df': 3}",29
+36,0.9400793650793652,"{'dimensionalityReduction': NMF(n_components=30), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",30
+23,0.9369047619047619,"{'dimensionalityReduction': TruncatedSVD(n_components=80), 'models': GaussianNB(), 'vectorize__min_df': 5}",31
+14,0.9361111111111112,"{'dimensionalityReduction': TruncatedSVD(n_components=30), 'models': GaussianNB(), 'vectorize__min_df': 3}",32
+3,0.9321428571428572,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",33
+5,0.9313492063492064,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",34
+2,0.9297619047619048,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",35
+1,0.9293650793650794,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",36
+4,0.9285714285714286,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",37
+0,0.9277777777777778,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",38
+26,0.9273809523809525,"{'dimensionalityReduction': NMF(n_components=5), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 3}",39
+27,0.9238095238095239,"{'dimensionalityReduction': NMF(n_components=5), 'models': LogisticRegression(C=10, penalty='l1', solver='liblinear'), 'vectorize__min_df': 5}",40
+24,0.9238095238095237,"{'dimensionalityReduction': NMF(n_components=5), 'models': SVC(C=0.5), 'vectorize__min_df': 3}",41
+25,0.9214285714285715,"{'dimensionalityReduction': NMF(n_components=5), 'models': SVC(C=0.5), 'vectorize__min_df': 5}",42
+28,0.9126984126984127,"{'dimensionalityReduction': NMF(n_components=5), 'models': LogisticRegression(C=10), 'vectorize__min_df': 3}",43
+29,0.9079365079365079,"{'dimensionalityReduction': NMF(n_components=5), 'models': LogisticRegression(C=10), 'vectorize__min_df': 5}",44
+31,0.8742063492063492,"{'dimensionalityReduction': NMF(n_components=5), 'models': GaussianNB(), 'vectorize__min_df': 5}",45
+30,0.8686507936507937,"{'dimensionalityReduction': NMF(n_components=5), 'models': GaussianNB(), 'vectorize__min_df': 3}",46
+7,0.8555555555555555,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': GaussianNB(), 'vectorize__min_df': 5}",47
+6,0.7948412698412699,"{'dimensionalityReduction': TruncatedSVD(n_components=5), 'models': GaussianNB(), 'vectorize__min_df': 3}",48

@@ -1,0 +1,4 @@
+Running the code:
+- the only thing you need to do manually is connect google.colab to import the Project1-Classification.csv
+- you can also delete that code portion and import the file in some other method you choose to do 
+- everything else can easily be compiled and ran (including the Word embedding portion where the needed files are in !wget)
